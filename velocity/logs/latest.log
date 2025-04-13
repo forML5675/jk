@@ -181,3 +181,30 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [08:13:39] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
 [08:13:41] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:45992) has disconnected
 [08:13:41] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
+[08:24:35] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:56572]: Connected via websocket
+[08:24:35] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:56572]: Origin header is https://eaglercraft.com
+[08:24:35] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:56572) has connected
+[08:24:35] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
+[08:24:40] [nLogin - Task Executor #69/INFO] [nlogin]: The user GX_ has successfully logged in.
+[08:24:40] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
+[08:24:40] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
+[08:24:55] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:56572) has disconnected
+[08:24:55] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
+[08:28:11] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:48782]: Connected via websocket
+[08:28:11] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:48782]: Origin header is https://eaglercraft.com
+[08:28:12] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] Teowj (/[0:0:0:0:0:0:0:1%0]:48782) has connected
+[08:28:12] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has connected
+[08:28:18] [nLogin - Task Executor #69/INFO] [nlogin]: The user Teowj has successfully logged in.
+[08:28:19] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival has connected
+[08:28:19] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has disconnected
+[08:28:32] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Teowj (/[0:0:0:0:0:0:0:1%0]:48782) has disconnected
+[08:28:32] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival has disconnected
+[08:28:36] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:58880]: Connected via websocket
+[08:28:36] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:58880]: Origin header is https://eaglercraft.com
+[08:28:37] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] Teowj (/[0:0:0:0:0:0:0:1%0]:58880) has connected
+[08:28:37] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has connected
+[08:28:43] [nLogin - Task Executor #69/INFO] [nlogin]: The user Teowj has successfully logged in.
+[08:28:44] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival has connected
+[08:28:44] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has disconnected
+[08:37:38] [EaglerXVelocity: Network Tick Tasks/WARN] [eaglerxvelocity]: Deleting stale certificate: $dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
+[08:37:38] [EaglerXVelocity: Network Tick Tasks/WARN] [eaglerxvelocity]: Certificate was deleted: $dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert

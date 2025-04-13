@@ -195,3 +195,13 @@
 [08:13:41] [Server thread/INFO]: GX_ lost connection: Disconnected
 [08:13:41] [Server thread/INFO]: GX_ left the game.
 [08:17:23] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[08:24:40] [User Authenticator #3/INFO]: UUID of player GX_ is a2758f7e-5a83-3f30-9ba6-cd1099f873f3
+[08:24:40] [Server thread/INFO]: GX_[/[0:0:0:0:0:0:0:1]:41796] logged in with entity id 161 at ([world]33.61214599883689, 79.0, 257.7660406552868)
+[08:24:55] [Server thread/INFO]: GX_ lost connection: Disconnected
+[08:24:55] [Server thread/INFO]: GX_ left the game.
+[08:28:19] [User Authenticator #4/INFO]: UUID of player Teowj is d2079392-7619-391c-81b7-77fe24f9b668
+[08:28:19] [Server thread/INFO]: Teowj[/[0:0:0:0:0:0:0:1]:48790] logged in with entity id 174 at ([world]34.07499998807907, 73.0, 257.75708005795804)
+[08:28:32] [Server thread/INFO]: Teowj lost connection: Disconnected
+[08:28:32] [Server thread/INFO]: Teowj left the game.
+[08:28:44] [User Authenticator #4/INFO]: UUID of player Teowj is d2079392-7619-391c-81b7-77fe24f9b668
+[08:28:44] [Server thread/INFO]: Teowj[/[0:0:0:0:0:0:0:1]:35294] logged in with entity id 185 at ([world]33.3815301625163, 73.0, 252.48750001192093)

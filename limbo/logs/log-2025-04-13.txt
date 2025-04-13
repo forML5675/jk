@@ -34,3 +34,9 @@
 07:33:45.718 INFO  Limbo -- Player GX_ disconnected
 08:13:32.100 INFO  Limbo -- Player GX_ connected (/127.0.0.1:54904) [V1_8]
 08:13:39.293 INFO  Limbo -- Player GX_ disconnected
+08:24:35.832 INFO  Limbo -- Player GX_ connected (/127.0.0.1:51564) [V1_8]
+08:24:40.904 INFO  Limbo -- Player GX_ disconnected
+08:28:12.056 INFO  Limbo -- Player Teowj connected (/127.0.0.1:45750) [V1_8]
+08:28:19.136 INFO  Limbo -- Player Teowj disconnected
+08:28:37.079 INFO  Limbo -- Player Teowj connected (/127.0.0.1:43136) [V1_8]
+08:28:44.486 INFO  Limbo -- Player Teowj disconnected
