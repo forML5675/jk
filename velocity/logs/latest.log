@@ -1,210 +1,93 @@
-[03:07:29] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.3.0-SNAPSHOT (git-e60e2063-b399)...
-[03:07:29] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
-[03:07:29] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 1.1.x (Linux x86_64) ciphers
-[03:07:29] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
-[03:07:30] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.3.0-SNAPSHOT:e60e2063:b399
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[03:07:30] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[03:07:30] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.0.5 by lax1dude, ayunami2000
-[03:07:31] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nlogin 10.3.27 by NickUC
-[03:07:31] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 2 plugins
-[03:07:31] [Velocity Async Event Executor - #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
-[03:07:31] [Velocity Async Event Executor - #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
-[03:07:31] [Velocity Async Event Executor - #0/ERROR] [eaglerxvelocity]: Online mode is set to false! Authentication system has been disabled
-[03:07:31] [Netty epoll Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
-[03:07:32] [Velocity Async Event Executor - #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[03:07:32] [Velocity Async Event Executor - #0/WARN] [eaglerxvelocity]: Voice chat enabled, not recommended for public servers!
-[03:07:33] [EaglerXVelocity: Network Tick Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/EaglerXVelocity/velocity/plugins/eaglerxvelocity/eagcert/$dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
-[03:07:33] [EaglerXVelocity: Network Tick Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/EaglerXVelocity/velocity/plugins/eaglerxvelocity/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
-[03:07:33] [EaglerXVelocity: Network Tick Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/EaglerXVelocity/velocity/plugins/eaglerxvelocity/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
-[03:07:35] [Velocity Async Event Executor - #0/INFO] [nlogin]: Successful plugin core start (took 1.33s)
-[03:07:35] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:           __             _       
-[03:07:35] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   _ __   / /  ___   __ _(_)_ __  
-[03:07:35] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | '_ \ / /  / _ \ / _` | | '_ \ 
-[03:07:35] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | | | / /__| (_) | (_| | | | | |
-[03:07:35] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  |_| |_\____/\___/ \__, |_|_| |_|
-[03:07:35] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:                   |___/            
-[03:07:35] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  By: www.nickuc.com - V 10.3.27
-[03:07:35] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  
-[03:07:36] [Netty epoll Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0%0]:25577
-[03:07:37] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (8.75s)!
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Thank you so much for choosing nLogin! <3
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  For your safety, please read the message below:
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Never download nLogin from unknown sources.
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   A modified version may contain malicious software.
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Trusted sources:
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   www.nickuc.com
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   www.github.com/nickuc
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   OpeNLogin installer (from Spigot or GitHub)
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Official support channels:
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Discord group: www.nickuc.com/discord
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Documentation: docs.nickuc.com/nlogin/
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Email: support@nickuc.com
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   YouTube: youtube.com/nickuc
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  To remove this warning, log in with "nlogin.admin" permission on the server
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  and click the "Setup plugin" button to configure your plugin.
-[03:07:41] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
-[03:07:42] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:60542]: Connected via websocket
-[03:07:42] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:60542]: Origin header is https://eaglercraft.com
-[03:07:42] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:60542) has connected
-[03:07:42] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[03:07:52] [nLogin - Task Executor #0/INFO] [nlogin]: The user GX_ has successfully logged in.
-[03:07:52] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
-[03:07:52] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:32988]: Connected via websocket
-[03:07:52] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:32988]: Origin header is https://eaglercraft.com
-[03:07:52] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] Teowj (/[0:0:0:0:0:0:0:1%0]:32988) has connected
-[03:07:52] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has connected
-[03:07:53] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[03:07:59] [nLogin - Task Executor #1/INFO] [nlogin]: The user Teowj has successfully logged in.
-[03:07:59] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival has connected
-[03:07:59] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has disconnected
-[04:00:13] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:60542) has disconnected
-[04:00:13] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
-[04:00:13] [Netty epoll Worker #0/WARN] [eaglerxvelocity]: Server icon is not a file: /workspaces/EaglerXVelocity/velocity/server-icon.png
-[04:00:14] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:33230]: Connected via websocket
-[04:00:14] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:33230]: Origin header is https://eaglercraft.com
-[04:00:14] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:33230) has connected
-[04:00:14] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[04:00:18] [nLogin - Task Executor #4/INFO] [nlogin]: The user GX_ has successfully logged in.
-[04:00:19] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
-[04:00:19] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[04:00:48] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:33230) has disconnected
-[04:00:48] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
-[04:01:16] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:34892]: Connected via websocket
-[04:01:16] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:34892]: Origin header is https://eaglercraft.com
-[04:01:16] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:34892) has connected
-[04:01:16] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[04:01:24] [nLogin - Task Executor #4/INFO] [nlogin]: The user GX_ has successfully logged in.
-[04:01:25] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
-[04:01:25] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[04:37:35] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:34892): kicked from server survival: Server closed
-[04:37:35] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
-[04:37:35] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[04:37:35] [Netty epoll Worker #1/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival: exception encountered in com.velocitypowered.proxy.connection.backend.BackendPlaySessionHandler@24ce5309
-io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
-[04:37:35] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival has disconnected
-[04:37:35] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has connected
-[04:37:39] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:34892) has disconnected
-[04:37:39] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[04:37:46] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:38280]: Connected via websocket
-[04:37:46] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:38280]: Origin header is https://eaglercraft.com
-[04:37:46] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:38280) has connected
-[04:37:46] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[04:37:51] [nLogin - Task Executor #20/INFO] [nlogin]: The user GX_ has successfully logged in.
-[04:37:51] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
-[04:37:51] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[04:37:56] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:38280) has disconnected
-[04:37:56] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
-[04:37:58] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Teowj (/[0:0:0:0:0:0:0:1%0]:32988) has disconnected
-[04:37:58] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has disconnected
-[04:38:25] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:56046]: Connected via websocket
-[04:38:25] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:56046]: Origin header is https://eaglercraft.com
-[04:38:25] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:56046) has connected
-[04:38:25] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[04:38:29] [nLogin - Task Executor #20/INFO] [nlogin]: The user GX_ has successfully logged in.
-[04:38:30] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
-[04:38:30] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[04:39:54] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:42178]: Connected via websocket
-[04:39:54] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:42178]: Origin header is https://eaglercraft.com
-[04:39:54] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] Teowj (/[0:0:0:0:0:0:0:1%0]:42178) has connected
-[04:39:54] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has connected
-[04:40:00] [nLogin - Task Executor #20/INFO] [nlogin]: The user Teowj has successfully logged in.
-[04:40:01] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival has connected
-[04:40:01] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has disconnected
-[05:05:47] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:58954]: Connected via websocket
-[05:05:47] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:58954]: Origin header is https://eaglercraft.com
-[05:05:47] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] JJ_ (/[0:0:0:0:0:0:0:1%0]:58954) has connected
-[05:05:47] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] JJ_ -> lobby has connected
-[05:05:53] [nLogin - Task Executor #20/INFO] [nlogin]: The user JJ_ has successfully logged in.
-[05:05:54] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] JJ_ -> survival has connected
-[05:05:54] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] JJ_ -> lobby has disconnected
-[05:50:22] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:56046) has disconnected
-[05:50:22] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
-[05:51:14] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:40524]: Connected via websocket
-[05:51:14] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:40524]: Origin header is https://eaglercraft.com
-[05:51:14] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:40524) has connected
-[05:51:14] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[05:51:19] [nLogin - Task Executor #20/INFO] [nlogin]: The user GX_ has successfully logged in.
-[05:51:20] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
-[05:51:20] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[05:55:49] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Teowj (/[0:0:0:0:0:0:0:1%0]:42178) has disconnected
-[05:55:49] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival has disconnected
-[07:07:47] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:40524) has disconnected
-[07:07:47] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
-[07:08:12] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:54612]: Connected via websocket
-[07:08:12] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:54612]: Origin header is https://eaglercraft.com
-[07:08:12] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:54612) has connected
-[07:08:12] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[07:08:17] [nLogin - Task Executor #47/INFO] [nlogin]: The user GX_ has successfully logged in.
-[07:08:18] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
-[07:08:18] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[07:32:56] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] JJ_ (/[0:0:0:0:0:0:0:1%0]:58954) has disconnected
-[07:32:56] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] JJ_ -> survival has disconnected
-[07:33:04] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:54612): kicked from server survival: Server closed
-[07:33:04] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
-[07:33:04] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[07:33:14] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:54612) has disconnected
-[07:33:14] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[07:33:39] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:51858]: Connected via websocket
-[07:33:39] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:51858]: Origin header is https://eaglercraft.com
-[07:33:40] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:51858) has connected
-[07:33:40] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[07:33:45] [nLogin - Task Executor #54/INFO] [nlogin]: The user GX_ has successfully logged in.
-[07:33:45] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
-[07:33:45] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[07:33:48] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:51858) has disconnected
-[07:33:48] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
-[08:13:31] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:45992]: Connected via websocket
-[08:13:31] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:45992]: Origin header is https://eaglercraft.com
-[08:13:32] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:45992) has connected
-[08:13:32] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[08:13:38] [nLogin - Task Executor #54/INFO] [nlogin]: The user GX_ has successfully logged in.
-[08:13:39] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
-[08:13:39] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[08:13:41] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:45992) has disconnected
-[08:13:41] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
-[08:24:35] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:56572]: Connected via websocket
-[08:24:35] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:56572]: Origin header is https://eaglercraft.com
-[08:24:35] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:56572) has connected
-[08:24:35] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
-[08:24:40] [nLogin - Task Executor #69/INFO] [nlogin]: The user GX_ has successfully logged in.
-[08:24:40] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
-[08:24:40] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
-[08:24:55] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:56572) has disconnected
-[08:24:55] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
-[08:28:11] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:48782]: Connected via websocket
-[08:28:11] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:48782]: Origin header is https://eaglercraft.com
-[08:28:12] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] Teowj (/[0:0:0:0:0:0:0:1%0]:48782) has connected
-[08:28:12] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has connected
-[08:28:18] [nLogin - Task Executor #69/INFO] [nlogin]: The user Teowj has successfully logged in.
-[08:28:19] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival has connected
-[08:28:19] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has disconnected
-[08:28:32] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Teowj (/[0:0:0:0:0:0:0:1%0]:48782) has disconnected
-[08:28:32] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival has disconnected
-[08:28:36] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:58880]: Connected via websocket
-[08:28:36] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:58880]: Origin header is https://eaglercraft.com
-[08:28:37] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] Teowj (/[0:0:0:0:0:0:0:1%0]:58880) has connected
-[08:28:37] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has connected
-[08:28:43] [nLogin - Task Executor #69/INFO] [nlogin]: The user Teowj has successfully logged in.
-[08:28:44] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> survival has connected
-[08:28:44] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Teowj -> lobby has disconnected
-[08:37:38] [EaglerXVelocity: Network Tick Tasks/WARN] [eaglerxvelocity]: Deleting stale certificate: $dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
-[08:37:38] [EaglerXVelocity: Network Tick Tasks/WARN] [eaglerxvelocity]: Certificate was deleted: $dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
+[08:30:23] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.3.0-SNAPSHOT (git-e60e2063-b399)...
+[08:30:24] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[08:30:25] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 1.1.x (Linux x86_64) ciphers
+[08:30:26] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[08:30:26] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.3.0-SNAPSHOT:e60e2063:b399
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[08:30:28] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[08:30:28] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.0.5 by lax1dude, ayunami2000
+[08:30:29] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin nlogin 10.3.27 by NickUC
+[08:30:29] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 2 plugins
+[08:30:29] [Velocity Async Event Executor - #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
+[08:30:29] [Velocity Async Event Executor - #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
+[08:30:30] [Velocity Async Event Executor - #0/ERROR] [eaglerxvelocity]: Online mode is set to false! Authentication system has been disabled
+[08:30:31] [Netty epoll Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
+[08:30:32] [Velocity Async Event Executor - #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[08:30:32] [Velocity Async Event Executor - #0/WARN] [eaglerxvelocity]: Voice chat enabled, not recommended for public servers!
+[08:30:34] [EaglerXVelocity: Network Tick Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/EaglerXVelocity/velocity/plugins/eaglerxvelocity/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+[08:30:34] [EaglerXVelocity: Network Tick Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/EaglerXVelocity/velocity/plugins/eaglerxvelocity/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+[08:30:38] [Velocity Async Event Executor - #0/INFO] [nlogin]: Successful plugin core start (took 1.01s)
+[08:30:38] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:           __             _       
+[08:30:38] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   _ __   / /  ___   __ _(_)_ __  
+[08:30:38] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[08:30:38] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  | | | / /__| (_) | (_| | | | | |
+[08:30:38] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  |_| |_\____/\___/ \__, |_|_| |_|
+[08:30:38] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:                   |___/            
+[08:30:38] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  By: www.nickuc.com - V 10.3.27
+[08:30:38] [Velocity Async Event Executor - #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  
+[08:30:38] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:38452]: Connected via websocket
+[08:30:38] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:38452]: Origin header is https://eaglercraft.com
+[08:30:38] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:38452) has connected
+[08:30:39] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
+[08:30:40] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:38452) has disconnected: The server has not yet started completely.
+Wait a while to connect.
+[08:30:40] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
+[08:30:41] [Netty epoll Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0%0]:25577
+[08:30:41] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (18.74s)!
+[08:30:44] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:38456]: Connected via websocket
+[08:30:44] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:38456]: Origin header is https://eaglercraft.com
+[08:30:44] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:38456) has connected
+[08:30:44] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
+[08:30:45] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Thank you so much for choosing nLogin! <3
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  For your safety, please read the message below:
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Never download nLogin from unknown sources.
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   A modified version may contain malicious software.
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Trusted sources:
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   www.nickuc.com
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   www.github.com/nickuc
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   OpeNLogin installer (from Spigot or GitHub)
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  Official support channels:
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Discord group: www.nickuc.com/discord
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Documentation: docs.nickuc.com/nlogin/
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   Email: support@nickuc.com
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:   YouTube: youtube.com/nickuc
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  To remove this warning, log in with "nlogin.admin" permission on the server
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]:  and click the "Setup plugin" button to configure your plugin.
+[08:30:46] [nLogin - Task Executor #0/INFO] [com.velocitypowered.proxy.console.VelocityConsole]: 
+[08:30:51] [nLogin - Task Executor #0/INFO] [nlogin]: The user GX_ has successfully logged in.
+[08:30:51] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
+[08:30:51] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
+[08:59:07] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:38456) has disconnected
+[08:59:07] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
+[08:59:08] [Netty epoll Worker #0/WARN] [eaglerxvelocity]: Server icon is not a file: /workspaces/EaglerXVelocity/velocity/server-icon.png
+[09:17:05] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:33300]: Connected via websocket
+[09:17:05] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1%0]:33300]: Origin header is https://eaglercraft.com
+[09:17:06] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:33300) has connected
+[09:17:06] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
+[09:17:10] [nLogin - Task Executor #1/INFO] [nlogin]: The user GX_ has successfully logged in.
+[09:17:11] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has connected
+[09:17:11] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
+[09:24:54] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:33300): kicked from server survival: Server closed
+[09:24:54] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> survival has disconnected
+[09:24:54] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has connected
+[09:26:19] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:33300) has disconnected: An internal error occurred in your connection.
+[09:26:19] [Netty epoll Worker #3/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GX_ (/[0:0:0:0:0:0:0:1%0]:33300): read timed out
+[09:26:19] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GX_ -> lobby has disconnected
