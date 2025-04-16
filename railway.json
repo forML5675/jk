@@ -1,6 +1,8 @@
 {
-    "build": {
-      "builder": "docker"
-    }
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "startCommand": "java -Xmx1G -jar server.jar"
   }
-  
+}
