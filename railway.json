@@ -1,8 +1,5 @@
 {
   "build": {
-    "builder": "NIXPACKS"
-  },
-  "deploy": {
-    "startCommand": "java -Xmx1G -jar server.jar"
+    "builder": "DOCKERFILE"
   }
 }
